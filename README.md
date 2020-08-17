@@ -3,6 +3,7 @@
 ## Description
 Create a route planner that plots a path between two points on a map using real map data from the OpenStreeMap project. 
 
+## Demo
 <img src="map.png" width="600" height="450" />
 
 ## Cloning
